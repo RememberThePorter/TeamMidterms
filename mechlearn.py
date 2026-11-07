@@ -17,13 +17,13 @@ def detectlang(s):
     print(a)
     print(w)
     if len(a)!=0:
-        print('the language is probobly',max(a,key=a.count))
+        print('The language is probably',max(a,key=a.count))
     else:
-        print('word or sentence not in data set')
+        print('Word or sentence is not in data set.')
 
 def run():
     
-    print('input any charater from any of these 22 languages:',end=' ')
+    print('Input any charater from any of these 22 languages:',end=' ')
     s=str(input())
     
     detectlang(s)
