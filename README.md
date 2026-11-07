@@ -1,2 +1,2 @@
-# CookedMachineLearning
-Nous some cooked
+# Team Midterms
+We are Team Midterms
